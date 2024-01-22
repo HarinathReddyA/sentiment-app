@@ -1,7 +1,7 @@
 # sentiment-app
 
 ### Requirements
-streamlit
-transformers
-tensorflow
+streamlit<br>
+transformers<br>
+tensorflow<br>
 scipy
